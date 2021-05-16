@@ -34,7 +34,7 @@ This is the list of public projects I'm working on.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=go-sessioner&theme=dark)](https://github.com/jamolpe/go-sessioner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=gologger&theme=dark)](https://github.com/jamolpe/gologger)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=gomailer&theme=dark)](https://github.com/jamolpe/gomailer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=mailer-generator&theme=dark)](https://github.com/jamolpe/mailer-generator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=NetCoreUserAPI&theme=dark)](https://github.com/jamolpe/NetCoreUserAPI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=TiendeoAssesment&theme=dark)](https://github.com/jamolpe/TiendeoAssesment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=AxaAssesment&theme=dark)](https://github.com/jamolpe/AxaAssesment)
