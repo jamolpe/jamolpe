@@ -1,10 +1,10 @@
 # Jamolpe
 
-Hi All! Im Javier Software a developer currently working for AXA Barcelona by Bussines-Insights.
+Hi All! Im Javier Software a engenieer currently working for Vueling Airlines as a cloud engenieer.
 
-Since I started my journey as a developer, I have been interested in learning new technologies and being constantly learning, I love sharing knowledge with my colleagues and learning about different businesses and needs that software can help solve.
+Since I started my journey as a engenieer, I have been interested in learning new technologies, I love sharing knowledge with my colleagues and learning about different businesses and needs that software can help to solve.
 
-I have experience working as a full-stack but my main role during this last year has been in the backend and I'm currently learinig about microservices architectures and best practices.
+I have experience working as a full-stack but my main role during this last year has been in the backend and I'm currently working with microservices architectures data analysis and cloud.
 
 I have worked with different technologies:
 
@@ -14,11 +14,13 @@ I have worked with different technologies:
 - Net Framework
 - Typescript
 - React
+- Python
 - MongoDB
 - SQL
 - Jenkins
 - CircleCI
 - Openshift
+- AWS
 
 ## Stats
 
