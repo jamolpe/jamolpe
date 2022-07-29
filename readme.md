@@ -28,7 +28,7 @@ I have worked with different technologies:
 
 This are the most used languajes I been working on my public repositories, for private/company repositories I use javascript and typescript
 
-![Top used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamolpe&hide=java)
+![Top used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamolpe&hide=java,c%23)
 
 ## Projects
 
