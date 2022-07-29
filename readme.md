@@ -1,6 +1,6 @@
 # Jamolpe
 
-Hi All! Im Javier Software a engenieer currently working for Vueling Airlines as a cloud engenieer.
+Hi All! Im Javier Software a engenieer currently working for Vueling Airlines and AXA as a cloud engenieer/Full stack developer.
 
 Since I started my journey as a engenieer, I have been interested in learning new technologies, I love sharing knowledge with my colleagues and learning about different businesses and needs that software can help to solve.
 
@@ -10,8 +10,7 @@ I have worked with different technologies:
 
 - Nodejs
 - Golang
-- Net Core
-- Net Framework
+- React
 - Typescript
 - React
 - Python
@@ -37,6 +36,6 @@ This is the list of public projects I'm working on.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=go-sessioner&theme=dark)](https://github.com/jamolpe/go-sessioner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=gologger&theme=dark)](https://github.com/jamolpe/gologger)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=mailer-generator&theme=dark)](https://github.com/jamolpe/mailer-generator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=NetCoreUserAPI&theme=dark)](https://github.com/jamolpe/NetCoreUserAPI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=backend-cognito-template&theme=dark)](https://github.com/jamolpe/NetCoreUserAPI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=TiendeoAssesment&theme=dark)](https://github.com/jamolpe/TiendeoAssesment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jamolpe&repo=AxaAssesment&theme=dark)](https://github.com/jamolpe/AxaAssesment)
