@@ -39,5 +39,5 @@ This is the list of public projects I'm working on.
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=backend-cognito-template&theme=dark)](https://github.com/jamolpe/backend-cognito-template)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=front-end-base-template&theme=dark)](https://github.com/jamolpe/front-end-base-template)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=gologger&theme=dark)](https://github.com/jamolpe/gologger)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=TiendeoAssesment&theme=dark)](https://github.com/jamolpe/TiendeoAssesment)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=AxaAssesment&theme=dark)](https://github.com/jamolpe/AxaAssesment)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=dosecret-web&theme=dark)](https://github.com/jamolpe/dosecret-web)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=dosecret&theme=dark)](https://github.com/jamolpe/dosecret)
