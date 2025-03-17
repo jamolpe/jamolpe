@@ -28,16 +28,3 @@ I have worked with different technologies:
 This are the most used languajes I been working on my public repositories, for private/company repositories I use javascript and typescript
 
 ![Top used langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamolpe&hide=java,c%23)
-
-## Projects
-
-This is the list of public projects I'm working on.
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=go-sessioner&theme=dark)](https://github.com/jamolpe/go-sessioner)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=mailer-generator&theme=dark)](https://github.com/jamolpe/mailer-generator)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=fastify-cognito-template&theme=dark)](https://github.com/jamolpe/fastify-cognito-template)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=backend-cognito-template&theme=dark)](https://github.com/jamolpe/backend-cognito-template)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=front-end-base-template&theme=dark)](https://github.com/jamolpe/front-end-base-template)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=gologger&theme=dark)](https://github.com/jamolpe/gologger)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=dosecret-web&theme=dark)](https://github.com/jamolpe/dosecret-web)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jamolpe&repo=dosecret&theme=dark)](https://github.com/jamolpe/dosecret)
