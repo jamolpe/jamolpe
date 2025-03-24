@@ -23,7 +23,7 @@ I have worked with different technologies:
 
 ## Stats
 
-![<This year stats>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamolpe&include_all_commits=true&show_icons=true&theme=tokyonight&?count_private=true)
+![<This year stats>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamolpe&include_all_commits=true&prs_merged=true&show_icons=true&theme=tokyonight&?count_private=true)
 
 This are the most used languajes I been working on my public repositories, for private/company repositories I use javascript and typescript
 
