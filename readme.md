@@ -1,30 +1,36 @@
-# Jamolpe
+# Hi there! I'm Javier
 
-Hi All! Im Javier Software a engineer currently working for Mapfre as a cloud engineer/Full stack developer.
+Software Engineer specializing in cloud-native platforms, observability, and scalable distributed systems.
 
-Since I started my journey as a engineer, I have been interested in learning new technologies, I love sharing knowledge with my colleagues and learning about different businesses and needs that software can help to solve.
+Currently, I work at MAPFRE, where I design and develop cloud-native solutions, microservices, and data-driven applications. My background includes full-stack development, but over the last few years I have specialized in backend systems, cloud infrastructure, platform engineering, and observability.
 
-I have experience working as a full-stack but my main role during this last year has been in the backend and I'm currently working with microservices architectures data analysis and cloud.
+I enjoy designing architectures that are reliable, scalable, and easy to operate. I'm particularly interested in helping teams build systems that can grow efficiently, improving developer experience, and using observability to better understand, monitor, and optimize complex distributed environments.
 
-I have worked with different technologies:
+## What I Enjoy Working On
 
-- Nodejs
-- Golang
-- React
-- Typescript
-- React
+- Cloud-native architectures
+- Backend engineering and platform development
+- Microservices and distributed systems
+- Scalability, performance, and reliability
+- Observability, monitoring, logging, and tracing
+- Data analysis and data-driven applications
+
+## Areas of Interest
+
+- AWS & Cloud Computing
+- Distributed Systems
+- Microservices Architecture
+- Observability & OpenTelemetry
+- Platform Engineering
+- DevOps & Automation
 - Python
-- MongoDB
-- SQL
-- Jenkins
-- CircleCI
-- Openshift
-- AWS
+- Data Engineering
+- Full-Stack Development
 
-## Stats
+## What Drives Me
 
-![<This year stats>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamolpe&include_all_commits=true&prs_merged=true&show_icons=true&theme=tokyonight&?count_private=true)
+I enjoy solving complex technical challenges and turning them into simple, maintainable solutions. Whether it's scaling services to handle growing workloads, improving system reliability, or providing better visibility through observability, I'm passionate about building software that delivers real value and can be confidently operated in production.
 
-This are the most used languajes I been working on my public repositories, for private/company repositories I use javascript and typescript
+---
 
-![Top used langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamolpe&hide=java,c%23)
+*Building scalable systems, improving observability, and continuously learning.*
